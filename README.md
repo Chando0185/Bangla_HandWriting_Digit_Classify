@@ -1,1 +1,1 @@
-# Bangla_HandWriting_Digit_Classify
+# Bangla HandWriting Digit Classification Using Machine Learning
